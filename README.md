@@ -41,3 +41,8 @@ Arrow Keys:
 ↓ Down
 ← Left
 → Right
+
+=>Acknowledgments 🙏
+Inspired by the classic Snake Game.
+Graphics created using Java's AWT and Swing libraries.
+
