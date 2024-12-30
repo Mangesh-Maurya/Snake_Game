@@ -1,3 +1,6 @@
+![Screenshot (72)](https://github.com/user-attachments/assets/f128578b-5af6-4ea0-b2f4-81f2829f640b)
+![Screenshot (73)](https://github.com/user-attachments/assets/4f5ff5bc-64d8-4fb0-bb98-7b46e25bc8ec)
+![Screenshot (74)](https://github.com/user-attachments/assets/5bd877d5-1ceb-41a9-8cb7-dd9ea151c7e0)
 Snake Game 🎮
 A simple, interactive Snake Game developed using Java Swing and AWT. The game features smooth animations, live score updates, and a clean design for an engaging user experience.
 
